@@ -9,7 +9,7 @@ const config = {
   title: 'Feature Probe',
   tagline: 'An open source feature management service',
   url: 'https://YZL24.github.io',
-  baseUrl: '/docs',
+  baseUrl: '/docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
