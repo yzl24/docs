@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Feature Probe',
   tagline: 'An open source feature management service',
-  url: 'https://YZL24.github.io',
-  baseUrl: '/docs/',
+  url: 'https://YZL24.github.io/docs',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
